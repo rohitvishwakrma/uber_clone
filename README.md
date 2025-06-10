@@ -50,6 +50,7 @@ Send a JSON object with the following structure:
         },
         "email": "john.doe@example.com",
         // ...other user fields
+    
       }
     }
     ```

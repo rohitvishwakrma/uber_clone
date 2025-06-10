@@ -9,4 +9,4 @@ function connectToDb() {
 }
 
 
-module.exports = connectToDb;
+module.exports = connectToDb; 
