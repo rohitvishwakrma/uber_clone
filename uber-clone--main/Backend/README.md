@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # `/users/register` Endpoint Documentation
 
 ## Endpoint
@@ -31,6 +30,7 @@ Send a JSON object with the following structure:
   },
   "email": "john.doe@example.com",
   "password": "password123"
+  
 }
 ```
 
@@ -51,7 +51,6 @@ Send a JSON object with the following structure:
         },
         "email": "john.doe@example.com",
         // ...other user fields
-    
       }
     }
     ```
@@ -80,6 +79,3 @@ Send a JSON object with the following structure:
 - The password is securely hashed before storage.
 - The response includes a JWT token for authentication.
 - The endpoint expects the request body in JSON format.
-=======
-# uber_clone
->>>>>>> 5dcd564e4d5f23bba175826802e80bc68b65c560
